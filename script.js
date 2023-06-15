@@ -1,7 +1,7 @@
 let fields = [
     null,
     'circle',
-    null,
+    'cross',
     null,
     null,
     null,
